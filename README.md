@@ -1,2 +1,0 @@
-# blog
-NG Blog Project
